@@ -1,0 +1,10 @@
+- site.json
+
+  - social_image
+
+- Classify voice files
+- voices.json
+- app.vue
+- nuxt.config.ts
+- package.json
+- favicon.icon

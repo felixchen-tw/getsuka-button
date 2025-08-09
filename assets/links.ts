@@ -32,7 +32,7 @@ export const links: T_Link[][] = [
         name: 'mdi-twitch'
       },
       title: 'Twitch',
-      url: 'https://www.twitch.tv/998rrr'
+      url: 'https://www.twitch.tv/getsuka1008'
     },
     {
       icon: {
@@ -40,7 +40,7 @@ export const links: T_Link[][] = [
         name: 'mdi-youtube'
       },
       title: 'Youtube',
-      url: 'https://www.youtube.com/@998rrr'
+      url: 'https://www.youtube.com/@GetsukaCh'
     },
     {
       icon: {
@@ -48,7 +48,7 @@ export const links: T_Link[][] = [
         name: 'mdi-twitter'
       },
       title: 'Twitter',
-      url: 'https://twitter.com/998rrr_'
+      url: 'https://x.com/GetsukaV'
     },
     {
       icon: {
@@ -56,51 +56,7 @@ export const links: T_Link[][] = [
         name: 'mdi-discord'
       },
       title: 'Discord',
-      url: 'https://discord.gg/R9eMxbN5Yq'
-    }
-  ],
-  [
-    {
-      icon: {
-        emoji: '🍃'
-      },
-      title: '小澪按鈕',
-      url: 'https://rei-button.konnokai.me/'
-    },
-    {
-      icon: {
-        emoji: '💥'
-      },
-      title: '阿基按鈕',
-      url: 'https://kirali-button.konnokai.me/'
-    },
-    {
-      icon: {
-        emoji: '🍊'
-      },
-      title: '租咪按鈕',
-      url: 'https://yuzumi-button.konnokai.me/'
-    },
-    {
-      "icon": {
-        "emoji": "🐣"
-      },
-      "title": "小響按鈕",
-      "url": "https://hibiki-button.konnokai.me/"
-    },
-    {
-      "icon": {
-        "emoji": "⚖️" //⛓️
-      },
-      "title": "魯尼按鈕",
-      "url": "https://iruni-button.natsumes.cc/"
-    },
-    {
-      "icon": {
-        "emoji": "😈"
-      },
-      "title": "玥玥按鈕",
-      "url": "https://itsuki-button.natsumes.cc/"
+      url: 'https://discord.gg/E2UZqSY6'
     }
   ]
 ];

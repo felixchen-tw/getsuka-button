@@ -1,34 +1,26 @@
 {
-  "title": "【玖玖巴按鈕】",
-  "description": "就只是個狐仙按鈕網站",
-  "keywords": "VTuber VoiceButton 玖玖巴 孤之界",
-  "url": "https://998-button.konnokai.me",
+  "title": "玥華音效按鈕",
+  "description": "卡哇金魚的音效按鈕網站",
+  "keywords": "VTuber VoiceButton Getsuka 玥華",
+  "url": "https://sound.getsuka.net",
   "social_image": "https://i.imgur.com/vOAsBZ3.png",
-  "twitter_user": "@Kon_no_kai",
-  "theme_color": "#f18465",
+  "twitter_user": "@FelixChen_TW",
+  "theme_color": "#f2d9b4",
   "footer": {
     "authors": [
       {
-        "name": "孤之界",
-        "link": "https://konnokai.me"
-      },
-      {
-        "name": "紅柿",
-        "link": "https://twitter.com/7Red4"
-      },
-      {
-        "name": "九条夏目",
-        "link": "https://github.com/kujyonatsume"
+        "name": "Felix",
+        "link": "https://felixchen.tw"
       }
     ],
-    "repo_link": "https://github.com/konnokai/998-voice-button",
+    "repo_link": "https://github.com/felixchen-tw/getsuka-button",
     "content": "本站為愛好者作品，和{0}沒有關聯，其餘資訊請查看{1} & {2}",
     "content_params": [
-      { "name": "玖玖巴" },
+      { "name": "玥華" },
       { "name": "關於", "link": "/about", "target": "" },
       {
         "name": "原始碼",
-        "link": "https://github.com/7Red4/vtuber-button-template",
+        "link": "https://github.com/felixchen-tw/getsuka-button",
         "target": "_blank"
       }
     ]
