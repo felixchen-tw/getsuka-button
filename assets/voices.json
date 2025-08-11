@@ -1,11 +1,43 @@
 {
   "groups": [
     {
+      "group_name": "good",
+      "group_description": {
+        "zh": "心情變好魔法"
+      },
+      "voice_list": [
+        {
+          "name": "b0a1d322-ca51-4636-93b3-d8b9fcbd10d0",
+          "path": "good/抱抱.mp3",
+          "description": {
+            "zh": "抱抱"
+          },
+          "updated_at":1739293290
+        },
+        {
+          "name": "b0a1d322-ca51-4636-93b3-d8b9fcbd10d0",
+          "path": "good/玥華老婆.mp3",
+          "description": {
+            "zh": "玥華老婆"
+          },
+          "updated_at":1739293290
+        }
+      ]
+    },
+    {
       "group_name": "curse_lyrics",
       "group_description": {
         "zh": "罵倒"
       },
       "voice_list": [
+        {
+          "name": "bdf788161c6b68ddadc848a9e10a88be",
+          "path": "curse_lyrics/我一定鞭了又鞭 打了又打.mp3",
+          "description": {
+            "zh": "我一定鞭了又鞭 打了又打"
+          },
+          "updated_at": 1739293290
+        },
         {
           "name": "af372691dc7bb11a92580cc518bef4f5",
           "path": "curse_lyrics/歐虧 你可以閉嘴了.mp3",
@@ -25,34 +57,82 @@
       ]
     },
     {
-      "group_name": "noise",
+      "group_name": "unknown",
       "group_description": {
         "zh": "意義不明"
       },
       "voice_list": [
         {
           "name": "51e68472d8fa62b1e1159d1692927f7e",
-          "path": "noise/Who are you-1.mp3",
+          "path": "unknown/Who are you-1.mp3",
           "description": {
             "zh": "Who are you"
           },
           "updated_at": 1739293290
         },
         {
+          "name": "51e68472d8fa62b1e1159d1692927f7e",
+          "path": "unknown/你誰.mp3",
+          "description": {
+            "zh": "你誰"
+          },
+          "updated_at": 1739293290
+        },
+        {
           "name": "",
-          "path": "noise/引擎發動.mp3",
+          "path": "unknown/引擎發動.mp3",
           "description": {
             "zh": "引擎發動"
           },
           "updated_at": 1739293290
         },
         {
+          "name": "51e68472d8fa62b1e1159d1692927f7e",
+          "path": "unknown/惡龍咆哮.mp3",
+          "description": {
+            "zh": "惡龍咆哮"
+          },
+          "updated_at": 1739293290
+        },
+        {
+          "name": "51e68472d8fa62b1e1159d1692927f7e",
+          "path": "unknown/烏薩奇 烏拉拉烏拉.mp3",
+          "description": {
+            "zh": "烏薩奇 烏拉拉烏拉"
+          },
+          "updated_at": 1739293290
+        },
+        {
           "name": "",
-          "path": "noise/貓貓貓.mp3",
+          "path": "unknown/貓貓貓.mp3",
           "description": {
             "zh": "貓貓貓"
           },
           "updated_at": 1739293290
+        }
+      ]
+    },
+    {
+      "group_name": "cute",
+      "group_description": {
+        "zh": "撒嬌"
+      },
+      "voice_list": [
+        {
+          "name": "b0a1d322-ca51-4636-93b3-d8b9fcbd10d0",
+          "path": "cute/嫑醬嘛.mp3",
+          "description": {
+            "zh": "嫑醬嘛"
+          },
+          "updated_at":1739293290
+        },
+        {
+          "name": "b0a1d322-ca51-4636-93b3-d8b9fcbd10d0",
+          "path": "cute/討厭啦.mp3",
+          "description": {
+            "zh": "討厭啦"
+          },
+          "updated_at":1739293290
         }
       ]
     }
